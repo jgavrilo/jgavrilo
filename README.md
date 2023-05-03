@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Jeremy Gavrilov, a passionate Software Engineer with a love for creating innovative solutions and exploring new technologies. <br>My expertise lies in Java and Python, along with knowledge of Javascript/Typescript and HTML/CSS. <br>I'm a strong believer in the power of collaboration and enjoy working on open-source projects that contribute to the tech community.<br><br>When I'm not coding, you can find me skating around town, chilling out and listening to music, or cooking a nice meal.<br>Feel free to check out my repositories and let's connect to create something amazing together! 🚀
+Hey there! 👋 I'm Jeremy Gavrilov, a passionate Software Engineer with a love for creating innovative solutions and exploring new technologies. <br>My expertise lies in backend technologies like Java and Python, however I greatly enjoy playing around with frontend development like Javascript/Typescript and HTML/CSS. <br>I'm a strong believer in the power of collaboration and enjoy working on open-source projects that contribute to the tech community.<br><br>When I'm not coding, you can find me skating around town, chilling out and listening to music, or cooking a nice meal.<br>Feel free to check out my repositories and let's connect to create something amazing together! 🚀
 
 
 ## 🌐 Socials:
